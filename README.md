@@ -31,7 +31,7 @@ listen(3000)(handler)
   - `request.params` is added to hold route params
   - see [find-my-way](https://github.com/delvedor/find-my-way) to learn more about `method` and `path`
 - `{Object} [options]`
-  - `{function} [options.defaultHandler]`
+- `{function} [options.defaultHandler]`
 
 
 
