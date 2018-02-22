@@ -1,0 +1,14 @@
+{
+  "name": "the-http-router",
+  "version": "1.0.0",
+  "description": "router for the-http",
+  "main": "index.js",
+  "author": "zhaoyao91 <zhaoyao91@163.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "the-http": "^1.*.*"
+  },
+  "dependencies": {
+    "find-my-way": "^1.10.1"
+  }
+}
